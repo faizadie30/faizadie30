@@ -4,6 +4,9 @@
    - codeigniter 3 php framework
    - laravel php framework
    - golang basic
+   - angularjs version 1.3+, <= 1.7
+   - bootstrap 4
+   - bootstrap 3.3.7
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
    - Instagram: `@faiz.adie <https://www.instagram.com/faiz.adie/>`_
