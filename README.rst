@@ -1,0 +1,12 @@
+- 👋 Hi, I’m Faiz Adie
+- 👀 I’m interested in learn new technology and programming
+- 🌱 I’m currently learning php:
+   - codeigniter 3 php framework
+   - laravel php framework
+   - golang basic
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me
+   - Instagram: `@faiz.adie <https://www.instagram.com/faiz.adie/>`_
+   - whatsapp: `081383963619 <https://api.whatsapp.com/send?phone=6281383963619>`_
+   - telegram:  `@faizadie <https://t.me/faizadie>`_
+   - linked: `faizadie <https://www.linkedin.com/in/muhammad-faiz-adi-eryoso/>`_
