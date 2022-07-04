@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Faiz Adie
-- 👀 I’m interested in learn new technology and programming
+- 👀 I’m interested learned new technology and programming
 - 🌱 I’m currently learning php:
    - codeigniter 3 php framework
    - laravel php framework
-   - golang basic
+   - Reactjs
+   - expressjs
    - angularjs version 1.3+, <= 1.7
    - bootstrap 4
    - bootstrap 3.3.7
