@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Faiz Adie
 - 👀 I’m interested learned new technology and programming
-- 🌱 I’m currently learning php:
+- 🌱 My experience:
    - codeigniter 3 php framework
    - laravel php framework
    - Reactjs
